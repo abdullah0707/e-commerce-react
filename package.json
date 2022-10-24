@@ -5,7 +5,7 @@
   "dependencies": {
     "@cloudfour/simple-svg-placeholder": "^1.0.2",
     "lodash.throttle": "^4.1.1",
-    "mdbreact": "^4.27.0",
+    "mdbreact": "^5.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
